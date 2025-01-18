@@ -38,4 +38,4 @@ Once you generate the process_data.yaml file, you can proceed with fully homomor
 Since I’m not very familiar with using GitHub, I will only upload the key files. Please forgive me.
 
 Made with: Flutter
-Supervisor: Dr. Sun Xiaoqiang, Shenzhen University
+                      Supervisor: Dr. Sun Xiaoqiang, Shenzhen University
