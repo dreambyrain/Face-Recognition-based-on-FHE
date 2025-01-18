@@ -33,3 +33,9 @@ urllib3	2.3.0
 wheel	0.41.2	
 By the way, you need to create the 'trainer' and 'save file' folders to separately store the trainer.yml file and the images you uploaded.
 After completing the above steps, the operations on the Windows system are done. Except for the first two files, the subsequent files are implemented on Linux Ubuntu.
+You need to call Microsoft's SEAL fully homomorphic encryption library in Linux. I don't know how to upload a folder on GitHub, but this step is not difficult, so you need to install it yourself.
+Once you generate the process_data.yaml file, you can proceed with fully homomorphic encryption.
+Since I’m not very familiar with using GitHub, I will only upload the key files. Please forgive me.
+
+Made with: Flutter
+Supervisor: Dr. Sun Xiaoqiang, Shenzhen University
