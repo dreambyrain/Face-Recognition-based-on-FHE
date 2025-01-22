@@ -4,9 +4,7 @@ This is the Fully Homomorphic Encryption technic using on the face recognition
 
 First, you need to add images to the file and then run the FACE DETECTION file. This will generate a .yml file in the trainer folder.
 
-
 These are the libraries you may need to follow:
-
 
 PIL-Tools	1.1.0	
 PyYAML	6.0.2	
@@ -37,7 +35,6 @@ setuptools	68.2.0
 six	1.17.0	
 urllib3	2.3.0	
 wheel	0.41.2	
-
 
 By the way, you need to create the 'trainer' and 'save file' folders to separately store the trainer.yml file and the images you uploaded.
 After completing the above steps, the operations on the Windows system are done. Except for the first two files, the subsequent files are implemented on Linux Ubuntu.
