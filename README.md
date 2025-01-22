@@ -1,5 +1,5 @@
 # Face-Recognition-based-on-FHE
-This is the Fully Homomorphic Encryption technic using on the face recognition
+This is the Fully Homomorphic Encryption technic using on the face recognition./
 First, you need to add images to the file and then run the FACE DETECTION file. This will generate a .yml file in the trainer folder.
 These are the libraries you may need to follow:
 PIL-Tools	1.1.0	
