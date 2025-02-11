@@ -42,5 +42,7 @@ You need to call Microsoft's SEAL fully homomorphic encryption library in Linux.
 Once you generate the process_data.yaml file, you can proceed with fully homomorphic encryption.
 Since I’m not very familiar with using GitHub, I will only upload the key files. Please forgive me.
 
+The system interface is complete. When using it on Ubuntu in Linux, just copy and paste the CMakeList file and the MainWindow file into your QtCreator. Remember to modify the paths for your SEAL fully homomorphic encryption library and the OpenCV face recognition library. Then there's the camera functionality, which is a bit abstract but still usable, mainly for the fully homomorphic encryption features. If you want to improve the camera and video face recognition, I recommend dragging the `.yml` file to the corresponding folder on Windows and implementing it in Python (this part of the code is in the FACE DETECTION file). Of course, if you want to train data on Windows, you can use the Data Training file.
+
 Made with: Flutter
 Supervisor: Dr. Sun Xiaoqiang, Shenzhen University
